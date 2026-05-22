@@ -1,5 +1,7 @@
 venv/
 .env
 __pycache__/
-temp_resume.pdf
+Resume.pdf
+JD.pdf
 temp_jd.pdf
+temp_resume.pdf
